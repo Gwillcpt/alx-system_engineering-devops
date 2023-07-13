@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "Enter a string: "
+tr -d "Cc"
